@@ -5,7 +5,7 @@
 
 ### two-stage
 
-- [TridentNet: Scale-Aware Trident Networks for Object Detection](https://arxiv.org/pdf/1901.01892.pdf)
+- [TridentNet: Scale-Aware Trident Networks for Object Detection](https://arxiv.org/pdf/1901.01892.pdf) [code](https://github.com/TuSimple/simpledet)
 
 - [SNIPER: Efficient Multi-Scale Training](https://arxiv.org/pdf/1805.09300.pdf)
 
