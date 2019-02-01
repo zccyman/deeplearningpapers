@@ -19,10 +19,19 @@
 
 ## scene text detection and recognition
 
+### end to end
+
 - [Mask TextSpotter: An End-to-End Trainable Neural Network for Spotting Text with Arbitrary Shapes](https://arxiv.org/pdf/1807.02242.pdf)
 
 - [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/pdf/1801.02765.pdf)
   - code [here](https://github.com/MhLiao/TextBoxes_plusplus)
+  
+### text detection
+
+
+
+### text recognition
+
 
 
 
