@@ -22,6 +22,9 @@
 - [CPN: Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/pdf/1711.07319.pdf)
   - code [here](https://github.com/zccyman/label-identification/tree/master/cpn-pytorch)
 
+- [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
+  - code [here](https://github.com/Microsoft/human-pose-estimation.pytorch)
+
 ## scene text detection and recognition
 
 ### end to end
