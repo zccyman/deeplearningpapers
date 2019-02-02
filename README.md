@@ -20,7 +20,7 @@
 ## keypoint detection/pose estimation
 
 - [CPN: Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/pdf/1711.07319.pdf)
-  - code [here](https://github.com/zccyman/label-identification/cpn-pytorch)
+  - code [here](https://github.com/zccyman/label-identification/tree/master/cpn-pytorch)
 
 ## scene text detection and recognition
 
