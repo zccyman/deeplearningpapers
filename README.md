@@ -33,7 +33,9 @@
 
 - [TextBoxes++: A Single-Shot Oriented Scene Text Detector](https://arxiv.org/pdf/1801.02765.pdf)
   - code [here](https://github.com/MhLiao/TextBoxes_plusplus)
-  
+
+- [Rosetta: Large Scale System for Text Detection and Recognition in Images](https://research.fb.com/wp-content/uploads/2018/10/Rosetta-Large-scale-system-for-text-detection-and-recognition-in-images.pdf)
+
 ### text detection
 
 
