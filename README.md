@@ -25,6 +25,16 @@
 - [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
   - code [here](https://github.com/Microsoft/human-pose-estimation.pytorch)
 
+## Training Tricks
+
+- [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf)
+
+## face detection
+
+- [Improved Selective Refinement Network for Face Detection](https://arxiv.org/pdf/1901.06651.pdf)
+
+
+
 ## scene text detection and recognition
 
 ### end to end
